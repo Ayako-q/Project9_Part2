@@ -9,6 +9,15 @@ public class Camera {
     private int isoMin;
     private int isoMax;
 
+    // constructor
+    public void Camera(String brand, String model, String type, int isoMin, int isoMax){
+        this.brand = brand;
+        this.model = model;
+        this.type = type;
+        this.isoMin = isoMin;
+        this.isoMax = isoMax;
+    }
+
     //setters:
     public void setBrand(String brand) {
         this.brand = brand;

@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e1a368e-c355-4a97-907f-8eca4a41cbea" name="Changes" comment="">
+    <list default="true" id="8e1a368e-c355-4a97-907f-8eca4a41cbea" name="Changes" comment="updt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/project9_part2/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/project9_part2/Camera.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/project9_part2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/project9_part2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +49,19 @@
       <workItem from="1665599768487" duration="3543000" />
       <workItem from="1665603460169" duration="597000" />
       <workItem from="1665604097006" duration="39000" />
+      <workItem from="1665604565537" duration="410000" />
+      <workItem from="1666007139763" duration="16000" />
+      <workItem from="1666022703650" duration="3000" />
+      <workItem from="1666385592903" duration="3000" />
     </task>
+    <task id="LOCAL-00001" summary="updt">
+      <created>1665604613073</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665604613073</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,5 +77,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updt" />
+    <option name="LAST_COMMIT_MESSAGE" value="updt" />
   </component>
 </project>
